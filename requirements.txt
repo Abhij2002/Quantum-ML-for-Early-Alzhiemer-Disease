@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+nibabel
+pennylane
+monai
+torch
